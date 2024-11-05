@@ -1,4 +1,8 @@
-# Store
+# DESAFIO DIO - PlayStore
+
+Projeto desenvolviedo durante o bootcamp Deal - Spring Boot e Angular (17+)
+
+## Store
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.11.
 
